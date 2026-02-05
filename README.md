@@ -70,7 +70,8 @@ The project covers the complete **end-to-end NLP pipeline**, including data coll
 ### 6️⃣ Deployment
 - Built an interactive **Streamlit application**  
 - Users can input a sequence of words and receive real-time predictions  
-- Model and tokenizer are loaded for inference  
+- Model and tokenizer are loaded for inference
+- Live App Link :- https://nextwordpredictorapplstm-b48qlgs2lekfte4pqfmzbb.streamlit.app/
 
 ---
 
