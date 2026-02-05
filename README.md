@@ -21,7 +21,7 @@ The project covers the complete **end-to-end NLP pipeline**, including data coll
 
 ---
 ## App Screenshot
-![App Screenshot](screenshots/app_ui.png)
+![App Screenshot](LSTM_Next_Word_Prediction_App.png)
 
 ---
 
